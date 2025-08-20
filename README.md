@@ -1,2 +1,3 @@
-# api-login
-API de gerenciamento de usuários - projeto final
+# API para Login
+
+> API de gerenciamento de usuários, realizada em Node.js.
